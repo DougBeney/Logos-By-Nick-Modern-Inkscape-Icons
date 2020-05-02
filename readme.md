@@ -9,6 +9,12 @@ Ported to Inkscape 1.0rc and beyond.
 2. Move the folders "Logos By Nick Theme" and "Logos By Nick Theme (Dark)" to your Inkscape icons folder. See below to find the location for your OS.
 3. In Inkscape, go to Edit>>Preferences>>Interface>>Theme and select either the Light or Dark icon theme.
 
+### Inkscape Icon folder locations:
+
+**Mac & Linux**: `~/.config/inkscape/icons`
+
+**Windows**: `C:\\Program Files\Inkscape\share\icons`
+
 ## How to modify this icon pack
 
 1. [Download](https://github.com/DougBeney/Logos-By-Nick-Modern-Inkscape-Icons/archive/master.zip) this repo or clone it.
