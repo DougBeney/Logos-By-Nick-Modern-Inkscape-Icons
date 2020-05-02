@@ -5,7 +5,7 @@ Ported to Inkscape 1.0rc and beyond.
 
 ## How to Install
 
-1. Download the [latest release](https://github.com/DougBeney/Logos-By-Nick-Modern-Inkscape-Icons/releases/download/1.0/LogosByNick.Icon.Themes.zip).
+1. Download the [latest release](https://github.com/DougBeney/Logos-By-Nick-Modern-Inkscape-Icons/releases/latest/download/Logos.By.Nick.Theme.zip).
 2. Move the folders "Logos By Nick Theme" and "Logos By Nick Theme (Dark)" to your Inkscape icons folder. See below to find the location for your OS.
 3. In Inkscape, go to Edit>>Preferences>>Interface>>Theme and select either the Light or Dark icon theme.
 
