@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=LogosByNick.com Icon Theme
+Comment=Modern Inkscape icons
+Hidden=true
+Directories=Icons
+
+[Icons]
+MinSize=8
+Size=16
+MaxSize=512
+Context=Actions
+
